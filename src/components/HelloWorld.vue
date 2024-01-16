@@ -1,6 +1,8 @@
 <template>
   <div class="hello">
     <h1>hiiiii hello </h1>
+    <h2>wow</h2>
+    <h3>timeeerrr</h3>
   </div>
 </template>
 
